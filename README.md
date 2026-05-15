@@ -11,6 +11,7 @@ GitHub kan inte rendera denna notebook på grund av filstorleken.
 
 ---
 
+## Om projektet
 Sverige har 21 regioner och 21 olika svar på samma fråga: ska 
 TBE-vaccin subventioneras för barn? Prisskillnaden spänner från 
 1 620 kr till över 6 000 kr för en familjs grundvaccination.
