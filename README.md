@@ -4,6 +4,11 @@
 **Gabriel Cederholm Triana · Maj 2026**  
 Portföljprojekt inom hälsodataanalys och HEOR
 
+## Visa notebooken
+
+GitHub kan inte rendera denna notebook på grund av filstorleken.  
+👉 [Klicka här för att öppna i nbviewer](https://nbviewer.org/github/gabrielctriana/tbe_vaccination_sverige/blob/main/tbe_vaccination_GCT.ipynb)
+
 ---
 
 Sverige har 21 regioner och 21 olika svar på samma fråga: ska 
