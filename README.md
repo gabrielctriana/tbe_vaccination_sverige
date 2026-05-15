@@ -20,7 +20,7 @@ I det här projektet kombinerar jag medicinsk domänkunskap med statistisk
 analys och hälsoekonomisk modellering för att undersöka om 
 skillnaden spelar roll – epidemiologiskt och ekonomiskt.
 
-![TBE-incidens Sverige 2003–2025](figures/tbe_karta.gif)
+![TBE-incidens Sverige 2003–2025](figures/tbe_karta.gif)  
 *Interaktiv version med år-reglage finns i notebooken.*
 
 ---
